@@ -3,23 +3,23 @@
 #Commands:
 (requires "node liri.js" before command)
 
-![concert-this](https://networknotwork.github.com/liri-node-bot/images/concertthissample.png)
+![concert-this](/images/concertthissample.PNG)
 
 concert-this "query": Search the Bands in Town API for an artist's next event.
 
-![spotify-this-song](https://networknotwork.github.com/liri-node-bot/images/spotifythissample.png)
-![spotify-null](networknotwork.github.com/liri-node-bot/images/spotifynullsample.png)
+![spotify-this-song](/images/spotifythissample.PNG)
+![spotify-null](/images/spotifynullsample.PNG)
 
 spotify-this-song "query": Search Spotify for a song.
 
-![movie-this](https://networknotwork.github.com/liri-node-bot/images/moviethissample.png)
+![movie-this](/images/moviethissample.PNG)
 
 movie-this "query": Searches for information on a movie.
 
-![dowhat1](https://networknotwork.github.com/liri-node-bot/images/dowhatitsayssample1.png)
-![dowhat2](https://networknotwork.github.com/liri-node-bot/images/dowhatitsayssample2.png)
-![dowhat3](https://networknotwork.github.com/liri-node-bot/images/dowhatitdsayssample3.png)
-![dowhat4](https://networknotwork.github.com/liri-node-bot/images/dowhatitsaysfailsafe.png)
+![dowhat1](/images/dowhatitsayssample1.PNG)
+![dowhat2](/images/dowhatitsayssample2.PNG)
+![dowhat3](/images/dowhatitdsayssample3.PNG)
+![dowhat4](/images/dowhatitsaysfailsafe.PNG)
 
 do-what-it-says: Reads "random.txt" and performs the command written inside.
 Don't write 'do-what-it-says' in "random.txt".
