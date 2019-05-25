@@ -18,7 +18,7 @@ movie-this "query": Searches for information on a movie.
 
 ![dowhat1](/images/dowhatitsayssample1.PNG)
 ![dowhat2](/images/dowhatitsayssample2.PNG)
-![dowhat3](/images/dowhatitdsayssample3.PNG)
+![dowhat3](/images/dowhatitsayssample3.PNG)
 ![dowhat4](/images/dowhatitsaysfailsafe.PNG)
 
 do-what-it-says: Reads "random.txt" and performs the command written inside.
