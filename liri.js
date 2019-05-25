@@ -73,7 +73,7 @@ var exec = function(command, term) {
   //movie-this
   if (command === "movie-this") {
     if (term != null) {
-      var mov = queryterm.split(" ").join("+");
+      var mov = term.split(" ").join("+");
 
       var queryUrl =
         "http://www.omdbapi.com/?t=" + mov + "&y=&plot=short&apikey=trilogy";
@@ -100,8 +100,8 @@ if (cmd === "do-what-it-says") {
       console.log(err);
     } else {
       var prompt = data.toString().split(",");
-      ctrl = prompt[0];
-      trm = prompt[1];
+      var ctrl = prompt[0];
+      var trm = prompt[1];
       if (ctrl != "do-what-it-says") {
         exec(ctrl, trm);
       } else {
