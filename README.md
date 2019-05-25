@@ -1,6 +1,6 @@
 # LIRI_bot
 
-#Commands:
+## Commands:
 (requires "node liri.js" before command)
 
 ![concert-this](/images/concertthissample.PNG)
