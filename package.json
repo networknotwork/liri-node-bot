@@ -4,7 +4,7 @@
   "description": "",
   "main": "liri.js",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "dotenv": "^8.0.0",
     "file-system": "^2.2.2",
     "moment": "^2.24.0",
