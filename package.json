@@ -7,7 +7,7 @@
     "axios": "^0.18.1",
     "dotenv": "^8.0.0",
     "file-system": "^2.2.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "node-spotify-api": "^1.1.1"
   },
   "devDependencies": {},
